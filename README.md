@@ -1,26 +1,26 @@
 # Lumaire
 
-Lumaire is a personal portfolio website: a compact place for selected work, projects, contact links, and a short introduction.
+Lumaire — персональный portfolio-сайт: аккуратное место для работ, проектов, контактов и короткой информации обо мне.
 
-The site is built as a static Vite project with local HTML, JavaScript modules, styles, fonts, media, and image assets. The current implementation keeps the visual structure close to the original exported frontend while making the project ready to live as the Lumaire portfolio.
+Проект собран как статический сайт на Vite. Внутри лежат HTML, JavaScript-модули, стили, локальные шрифты, медиа и изображения. Основная цель сайта — показать визуальный стиль, выбранные проекты и оставить понятные точки связи.
 
-## What Is Inside
+## Что Внутри
 
-- Portfolio content and personal positioning
-- Selected projects and product work
-- Contact links and social entry points
-- About section and supporting site content
+- портфолио и личное позиционирование
+- выбранные проекты и продуктовая работа
+- контакты и социальные ссылки
+- информация обо мне и дополнительные блоки сайта
 
-## Tech Stack
+## Стек
 
 - Vite
 - HTML
 - CSS
-- JavaScript modules
-- Locally bundled static assets
+- JavaScript-модули
+- локально подключённые статические ассеты
 
 ## Copyright
 
 Copyright (c) 2026 anxietysocreamingtears. All rights reserved.
 
-The source code, design, assets, content, and structure of this project may not be copied, modified, distributed, published, or reused without explicit written permission from the author.
+Исходный код, дизайн, ассеты, контент и структура проекта не могут быть скопированы, изменены, опубликованы, распространены или использованы без явного письменного разрешения автора.
