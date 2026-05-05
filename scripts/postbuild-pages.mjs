@@ -21,6 +21,7 @@ const replacements = [
   ["`/assets/", "`./assets/"],
   ["(/assets/", "(./assets/"],
   [",/assets/", ",./assets/"],
+  ["./assets/framer/framer-edit-init-stub.mjs", "./framer-edit-init-stub.mjs"],
 ];
 
 async function* walk(directory) {
